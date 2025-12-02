@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">Calendari d\'Advent</string>
-    <string name="title_activity_main">Calendari d\'Advent</string>
-    <string name="package_name">com.laliga.advent</string>
-    <string name="custom_url_scheme">com.laliga.advent</string>
-</resources>
